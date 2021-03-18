@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mon application</string>
+    <string name="quitter">Quitter l\'application</string>
+
+</resources>
